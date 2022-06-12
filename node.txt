@@ -1,0 +1,33 @@
+When to Create JavaScript!!!
+
+The Original JavaScript ES1 ES2 ES3 (1997-1999)
+The First Main Revision ES5 (2009)
+The Second Revision ES6 (2015)
+The Yearly Additions (2016, 2017, 2018)
+
+Why I will learn JavaScript?
+
+-Easy to learn
+-Everywhere use them
+-Best Programming Language
+-Powerfull Web Language
+-its in your browser
+
+When Made in JavaScript?
+
+-Basicully JavaScript Made in 1997 
+-Es1 Es2 Es3 Made in 1999
+-Es5 Made in 2009
+-Es6 Made in 2015
+-last Modify in 2017 - 18
+
+
+1. HTML
+2. Css
+3. JavaScript
+4. Bootstrap
+5. Sass
+6. React Js
+7. Redux
+8. Python 
+9. Django

@@ -1,0 +1,39 @@
+Top 50 JavaScript Interview Questions You Must Prepare in 2022
+
+Q1. What is the difference between Java & JavaScript?
+Q2. What is JavaScript?
+Q3. What are the data types supported by JavaScript?
+Q4. What are the features of JavaScript?
+Q5. Is JavaScript a case-sensitive language?
+Q6. What are the advantages of JavaScript?
+Q7. How can you create an object in JavaScript?
+Q8. How can you create an Array in JavaScript?
+Q9. What is a name function in JavaScript & how to define it?
+Q10. Can you assign an anonymous function to a variable and pass it as an argument to another function?
+Q11. What is argument objects in JavaScript & how to get the type of arguments passed to a function?
+Q12. What are the scopes of a variable in JavaScript?
+Q13. What is the purpose of ‘This’ operator in JavaScript?
+Q14. What is Callback?
+Q15. What is Closure? Give an example.
+Q16. Name some of the built-in methods and the values returned by them.
+Q17. What are the variable naming conventions in JavaScript?
+Q18. How does TypeOf Operator work?
+Q19. How to create a cookie using JavaScript?
+Q20. How to read a cookie using JavaScript?
+Q21. How to delete a cookie using JavaScript?
+Q22. What is the difference between Attributes and Property?
+Q23. List out the different ways an HTML element can be accessed in a JavaScript code
+Q24. In how many ways a JavaScript code can be involved in an HTML file?
+Q25. What are the ways to define a variable in JavaScript?
+Q27. What is the difference between Local storage & Session storage?
+Q28. What is the difference between the operators ‘==‘ & ‘===‘?
+Q29. What is the difference between null & undefined?
+Q32. What is the difference between window & document in JavaScript?
+Q35. What is NaN in JavaScript?
+
+Advanced Level JavaScript Interview Questions and Answers for Experienced Professionals
+Q40. What is the ‘Strict’ mode in JavaScript and how can it be enabled?
+Q41. What is a prompt box in JavaScript?
+Q43. What is the difference between Call & Apply?
+
+

@@ -1,0 +1,23 @@
+@mixin FlexBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+//varibale
+$CardBgColor: #252b43;
+$CardHBgColor: #333a56;
+// reset
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif, "poppins";
+  background-color: red;
+}
+// utlis
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
